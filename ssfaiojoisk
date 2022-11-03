@@ -1,0 +1,11 @@
+user.email=vitorlucasdesenalima@gmail.com
+user.name=Thiago Sena
+user.mail=thiagosena316@gmail.com
+core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+remote.origin.url=https://github.com/ThiagoDeSena/eventos-DOM.git
+remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+user.name=Thiago
+user.mail=thiagosena316@gmail.com
